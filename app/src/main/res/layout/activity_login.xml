@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+
+
+    <ProgressBar
+        android:id="@+id/login_progress"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:ignore="Suspicious0dp" />
+
+
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/email_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="email"/>
+
+            <EditText
+                android:id="@+id/pass_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="passord"
+                />
+
+            <Button
+                android:id="@+id/btn_acess"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFF"
+                android:text="Acesso"/>
+
+
+            <TextView
+                android:id="@+id/create_count"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Criar Conta"
+                android:textSize="18sp"
+                android:layout_margin="4dp"
+                android:layout_gravity="center_vertical|center_horizontal"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+    <ScrollView
+        android:id="@+id/create_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/FullName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nome"/>
+
+            <EditText
+                android:id="@+id/new_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="email"/>
+
+            <EditText
+                android:id="@+id/new_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="password"/>
+
+
+            <Button
+                android:id="@+id/btn_create"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Criar Conta"/>
+
+            <TextView
+                android:id="@+id/txt_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ja tenho"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:layout_margin="4dp"/>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

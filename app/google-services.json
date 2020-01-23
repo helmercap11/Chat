@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "858754344900",
+    "firebase_url": "https://chat-3bc6f.firebaseio.com",
+    "project_id": "chat-3bc6f",
+    "storage_bucket": "chat-3bc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858754344900:android:41299d57ab56658c742691",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858754344900-j7po8p3pefqd14dejfbn6nadah2lvcqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "d077e70cbe0ce4a32607c01b52535a6421eb0723"
+          }
+        },
+        {
+          "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OXZ9pf7JTxsNbZS0zVSgdFScdZ828pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858754344900:android:bb09aa5996af3812742691",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858754344900-6rqnjh9luc77jjhnkck2b0qvt4sjp4ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychat",
+            "certificate_hash": "70ae19578a38c88146c5238d9c646f85176fac6b"
+          }
+        },
+        {
+          "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OXZ9pf7JTxsNbZS0zVSgdFScdZ828pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858754344900:android:15bc54ba3e1507f8742691",
+        "android_client_info": {
+          "package_name": "com.helmercapassola.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858754344900-7mav4ee92ds8mt02mr8m3deaaou9hnc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helmercapassola.chat",
+            "certificate_hash": "ffd58c20119c2b8c2d5a5a25ad506154c0502520"
+          }
+        },
+        {
+          "client_id": "858754344900-fp0eoj7s5kdovqnkob342fj5mj0l8df3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helmercapassola.chat",
+            "certificate_hash": "551fceeb4ad9a20dc8e4f14d214b06bf27a4a045"
+          }
+        },
+        {
+          "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OXZ9pf7JTxsNbZS0zVSgdFScdZ828pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858754344900:android:baf07db52373129d742691",
+        "android_client_info": {
+          "package_name": "com.helmercapassola.chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858754344900-9ghpl0tjph19stlf5auh5e0h9arnjpd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helmercapassola.chats",
+            "certificate_hash": "551fceeb4ad9a20dc8e4f14d214b06bf27a4a045"
+          }
+        },
+        {
+          "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OXZ9pf7JTxsNbZS0zVSgdFScdZ828pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858754344900-uhqhi4rr4i3dt8dmsp71mee2jc8bf2mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
